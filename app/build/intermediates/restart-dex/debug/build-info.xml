@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="7"
+    timestamp="395738059767612"
+    token="-9079151492640527024" >
+
+    <task
+        name="javac"
+        duration="637" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="185" />
+    <task
+        name="verifier"
+        duration="75" />
+
+    <artifact
+        location="C:\Users\Wolf\AndroidStudioProjects\Downloaded\Navigation_Drawer_KK_Tutorial_Part3-master1\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="395738059767612" >
+        <artifact
+            location="C:\Users\Wolf\AndroidStudioProjects\Downloaded\Navigation_Drawer_KK_Tutorial_Part3-master1\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
